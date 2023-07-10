@@ -64,6 +64,9 @@ Set up a Geomap in Workbook. Choose to display the output of our logs as a map: 
 Run the Sentinel that will be the SIEM to visualise the attack data. Note attacks have already begun. The larger the size of the circle, the more people are attacking from that location:  <br/>
 <br />
 <img src="https://i.ibb.co/ctJHv7v/Image10.png" height="50%" width="50%" alt="Azure Sentinel SIEM"/>
+ <br />
+  <br />
+ Thank you for reading this project.
 </p>
 
 <!--
